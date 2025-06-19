@@ -15,7 +15,7 @@
 ##### 3) Build Data Model : 
 - I used Star Schema to organize data ,It simplifies Queries and Analysis,In it i use Fact Table and Dimension Tables . 
 ##### 3) Build Power Pivots 
-##### 3) Build DashBoards :
+##### 4) Build DashBoards :
 - I designed 4 DashBoards  [ Dashboard Of Overview / Dashboard Of Track / Dashboard Of Media / Dashboard Of Customer ].
 
 
